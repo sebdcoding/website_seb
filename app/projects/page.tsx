@@ -16,7 +16,7 @@ const projects = [
       "A modular knee brace design that adapts to different body shapes while maintaining standardized production.",
     fullDescription: `When designing medical support products for a commercial market, addressing unique body shapes while working with standardized production poses a significant challenge. This paradox was central to the project assigned by Nea International, a company specializing in braces designed to support various ligament-related issues.
 
-  The project aimed to reduce or maintain the current number of available sizes for their Push med knee brace, while providing support to a broader range of body types, ultimately making the knee braces more universally adaptable and inclusive.
+  The project aimed to reduce or maintain the current number of available sizes for a medical knee brace, while providing support to a broader range of body types, ultimately making the knee braces more universally adaptable and inclusive.
 
   Modular knee brace existing of an upper part, lower part and an adjustable support system the modular brace allows users to sort what suits their body extending the choice further than solely size range. The adjustable system allows to make little adjustments to body types recognizing every individual needs different support.
   
